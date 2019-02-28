@@ -75,7 +75,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<imageName>senthil-projectmanager-fse</imageName>
+					<imageName>sivapriya-projectmanager-fse</imageName>
 					<dockerHost>http://172.18.2.50:2375</dockerHost>
 
 					<dockerDirectory>docker</dockerDirectory>
